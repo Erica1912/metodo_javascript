@@ -11,7 +11,7 @@
 
   - *QuerySelectorAll*
   
-    El método querySelectorAll() de un Element devuelve una NodeList estática (no viva) que representa una lista de elementos del documento que 
+    El método *querySelectorAll()* de un Element devuelve una NodeList estática (no viva) que representa una lista de elementos del documento que 
     coinciden con el grupo de selectores indicados.
   
              ```document.querySelectorAll('aquí el selector CSS, o varios selectores separados por comas');```
