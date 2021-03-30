@@ -16,6 +16,8 @@
   
    ```document.querySelectorAll('aquí el selector CSS, o varios selectores separados por comas');```
    
+   *Ejemplos en el js*
+   
 
   - *QuerySelector*
   
@@ -23,3 +25,6 @@
     con el grupo especificado de selectores.
   
    ```document.querySelector ('aquí el selector CSS');```
+   
+   
+   *Ejemplos en el js*
