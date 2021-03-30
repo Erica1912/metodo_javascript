@@ -16,8 +16,5 @@
   
              ```document.querySelectorAll('aquí el selector CSS, o varios selectores separados por comas');```
    
-  - Nodemon en modo developer
-  ```npm i nodemon -D ```
-  
-*QUERYSELECTORALL Y QUERYSELECTOR*
+
   
