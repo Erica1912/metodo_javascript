@@ -17,4 +17,9 @@
    ```document.querySelectorAll('aquí el selector CSS, o varios selectores separados por comas');```
    
 
+  - *QuerySelector*
   
+    El método *querySelector* Devuelve el primer elemento del documento (utilizando un recorrido primero en profundidad pre ordenado de los nodos del documento) que coincida
+    con el grupo especificado de selectores.
+  
+   ```document.querySelectorAll('aquí el selector CSS, o varios selectores separados por comas');```
