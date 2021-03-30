@@ -16,7 +16,7 @@
   
    ```document.querySelectorAll('aquí el selector CSS, o varios selectores separados por comas');```
    
-   *Ejemplos en la ruta src/js*
+   *Ejemplos en la ruta src/metodosJavascript.js*
    
 
   - *QuerySelector*
@@ -27,4 +27,4 @@
    ```document.querySelector ('aquí el selector CSS');```
    
    
-   *Ejemplos en la ruta  src/js*
+   *Ejemplos en la ruta  src/metodosJavascript.js*
